@@ -1,0 +1,6 @@
+---
+# vars file for ec2_creation
+key: kwasi
+instance_type: t2.micro
+security: default
+region: us-east-1
